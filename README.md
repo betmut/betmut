@@ -1,8 +1,11 @@
 ```
-A professional scripter
-|>>> Nix
-|>>> Bash
-|>>> Python
+[About]
+--> A professional scripter
+
+[Languages]
+--> Nix
+--> Bash
+--> Python
 
 GPG Key ID: 09A7FB06C567672D
 ```

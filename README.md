@@ -1,4 +1,7 @@
 ```
+Author: betmut <3011mathewelhans@apps.ipb.ac.id>
+Date:   Wed Oct 21 07:42:00 2026 +0700
+
 [About]
 --> A professional scripter
 

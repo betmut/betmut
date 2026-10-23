@@ -4,12 +4,12 @@ Author: betmut <3011mathewelhans@apps.ipb.ac.id>
 Date:   Wed Oct 22 07:05:00 2026 +0700
 
 [About]
-=> A professional scripter
+- A professional scripter
 
 [Languages]
-=> Nix
-=> Bash
-=> Python
+- Nix
+- Bash
+- Python
 
 GPG-key-ID: 09A7FB06C567672D
 Signed-off-by: betmut <3011mathewelhans@apps.ipb.ac.id>
